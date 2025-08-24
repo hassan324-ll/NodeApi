@@ -1,0 +1,86 @@
+{
+  "hotels": [
+    { "id": 1, "name": "Serena Hotel Islamabad", "city": "Islamabad", "image": "https://cf.bstatic.com/images/hotel/max1024x768/123.jpg" },
+    { "id": 2, "name": "Pearl Continental Lahore", "city": "Lahore", "image": "https://cf.bstatic.com/images/hotel/max1024x768/124.jpg" },
+    { "id": 3, "name": "Avari Towers Karachi", "city": "Karachi", "image": "https://cf.bstatic.com/images/hotel/max1024x768/125.jpg" },
+    { "id": 4, "name": "Marriott Hotel Islamabad", "city": "Islamabad", "image": "https://cf.bstatic.com/images/hotel/max1024x768/126.jpg" },
+    { "id": 5, "name": "Ramada by Wyndham Multan", "city": "Multan", "image": "https://cf.bstatic.com/images/hotel/max1024x768/127.jpg" },
+    { "id": 6, "name": "Mövenpick Hotel Karachi", "city": "Karachi", "image": "https://cf.bstatic.com/images/hotel/max1024x768/128.jpg" },
+    { "id": 7, "name": "Lockwood Hotel Murree", "city": "Murree", "image": "https://cf.bstatic.com/images/hotel/max1024x768/129.jpg" },
+    { "id": 8, "name": "Shangrila Resort Skardu", "city": "Skardu", "image": "https://cf.bstatic.com/images/hotel/max1024x768/130.jpg" },
+    { "id": 9, "name": "Hotel One Faisalabad", "city": "Faisalabad", "image": "https://cf.bstatic.com/images/hotel/max1024x768/131.jpg" },
+    { "id": 10, "name": "Swat Serena Hotel", "city": "Swat", "image": "https://cf.bstatic.com/images/hotel/max1024x768/132.jpg" }
+  ],
+  "apartments": [
+    { "id": 1, "name": "Luxury Apartment Lahore", "city": "Lahore", "image": "https://cf.bstatic.com/images/apartment/max1024x768/201.jpg" },
+    { "id": 2, "name": "Sky Towers Apartment Karachi", "city": "Karachi", "image": "https://cf.bstatic.com/images/apartment/max1024x768/202.jpg" },
+    { "id": 3, "name": "One Constitution Avenue Apartment", "city": "Islamabad", "image": "https://cf.bstatic.com/images/apartment/max1024x768/203.jpg" },
+    { "id": 4, "name": "River View Apartment Swat", "city": "Swat", "image": "https://cf.bstatic.com/images/apartment/max1024x768/204.jpg" },
+    { "id": 5, "name": "Lake View Apartment Skardu", "city": "Skardu", "image": "https://cf.bstatic.com/images/apartment/max1024x768/205.jpg" },
+    { "id": 6, "name": "Clifton Apartment Karachi", "city": "Karachi", "image": "https://cf.bstatic.com/images/apartment/max1024x768/206.jpg" },
+    { "id": 7, "name": "Blue Area Apartment Islamabad", "city": "Islamabad", "image": "https://cf.bstatic.com/images/apartment/max1024x768/207.jpg" },
+    { "id": 8, "name": "Model Town Apartment Lahore", "city": "Lahore", "image": "https://cf.bstatic.com/images/apartment/max1024x768/208.jpg" },
+    { "id": 9, "name": "City Center Apartment Multan", "city": "Multan", "image": "https://cf.bstatic.com/images/apartment/max1024x768/209.jpg" },
+    { "id": 10, "name": "Peshawar Heights Apartment", "city": "Peshawar", "image": "https://cf.bstatic.com/images/apartment/max1024x768/210.jpg" }
+  ],
+  "resorts": [
+    { "id": 1, "name": "Shangrila Resort Skardu", "city": "Skardu", "image": "https://cf.bstatic.com/images/resort/max1024x768/301.jpg" },
+    { "id": 2, "name": "Fairy Meadows Resort", "city": "Gilgit", "image": "https://cf.bstatic.com/images/resort/max1024x768/302.jpg" },
+    { "id": 3, "name": "Hunza Serena Inn", "city": "Hunza", "image": "https://cf.bstatic.com/images/resort/max1024x768/303.jpg" },
+    { "id": 4, "name": "Kalam Pine Resort", "city": "Kalam", "image": "https://cf.bstatic.com/images/resort/max1024x768/304.jpg" },
+    { "id": 5, "name": "Murree Hills Resort", "city": "Murree", "image": "https://cf.bstatic.com/images/resort/max1024x768/305.jpg" },
+    { "id": 6, "name": "Neelum Valley Resort", "city": "Azad Kashmir", "image": "https://cf.bstatic.com/images/resort/max1024x768/306.jpg" },
+    { "id": 7, "name": "Chitral Valley Resort", "city": "Chitral", "image": "https://cf.bstatic.com/images/resort/max1024x768/307.jpg" },
+    { "id": 8, "name": "Naltar Valley Resort", "city": "Naltar", "image": "https://cf.bstatic.com/images/resort/max1024x768/308.jpg" },
+    { "id": 9, "name": "Swat Valley Resort", "city": "Swat", "image": "https://cf.bstatic.com/images/resort/max1024x768/309.jpg" },
+    { "id": 10, "name": "Ayubia Hill Resort", "city": "Ayubia", "image": "https://cf.bstatic.com/images/resort/max1024x768/310.jpg" }
+  ],
+  "villas": [
+    { "id": 1, "name": "Luxury Villa Islamabad", "city": "Islamabad", "image": "https://cf.bstatic.com/images/villa/max1024x768/401.jpg" },
+    { "id": 2, "name": "Palm Villa Karachi", "city": "Karachi", "image": "https://cf.bstatic.com/images/villa/max1024x768/402.jpg" },
+    { "id": 3, "name": "Garden Villa Lahore", "city": "Lahore", "image": "https://cf.bstatic.com/images/villa/max1024x768/403.jpg" },
+    { "id": 4, "name": "Lake View Villa Rawalpindi", "city": "Rawalpindi", "image": "https://cf.bstatic.com/images/villa/max1024x768/404.jpg" },
+    { "id": 5, "name": "Mountain Villa Murree", "city": "Murree", "image": "https://cf.bstatic.com/images/villa/max1024x768/405.jpg" },
+    { "id": 6, "name": "Green Valley Villa Swat", "city": "Swat", "image": "https://cf.bstatic.com/images/villa/max1024x768/406.jpg" },
+    { "id": 7, "name": "Beach Villa Gwadar", "city": "Gwadar", "image": "https://cf.bstatic.com/images/villa/max1024x768/407.jpg" },
+    { "id": 8, "name": "Cliffside Villa Hunza", "city": "Hunza", "image": "https://cf.bstatic.com/images/villa/max1024x768/408.jpg" },
+    { "id": 9, "name": "Royal Villa Multan", "city": "Multan", "image": "https://cf.bstatic.com/images/villa/max1024x768/409.jpg" },
+    { "id": 10, "name": "City Luxury Villa Peshawar", "city": "Peshawar", "image": "https://cf.bstatic.com/images/villa/max1024x768/410.jpg" }
+  ],
+  "cabins": [
+    { "id": 1, "name": "Pinewood Cabin Murree", "city": "Murree", "image": "https://cf.bstatic.com/images/cabin/max1024x768/501.jpg" },
+    { "id": 2, "name": "Mountain View Cabin Swat", "city": "Swat", "image": "https://cf.bstatic.com/images/cabin/max1024x768/502.jpg" },
+    { "id": 3, "name": "Snowfall Cabin Naran", "city": "Naran", "image": "https://cf.bstatic.com/images/cabin/max1024x768/503.jpg" },
+    { "id": 4, "name": "Lake Cabin Skardu", "city": "Skardu", "image": "https://cf.bstatic.com/images/cabin/max1024x768/504.jpg" },
+    { "id": 5, "name": "Forest Cabin Kalam", "city": "Kalam", "image": "https://cf.bstatic.com/images/cabin/max1024x768/505.jpg" },
+    { "id": 6, "name": "Cliff Cabin Hunza", "city": "Hunza", "image": "https://cf.bstatic.com/images/cabin/max1024x768/506.jpg" },
+    { "id": 7, "name": "Hilltop Cabin Abbottabad", "city": "Abbottabad", "image": "https://cf.bstatic.com/images/cabin/max1024x768/507.jpg" },
+    { "id": 8, "name": "Wooden Cabin Gilgit", "city": "Gilgit", "image": "https://cf.bstatic.com/images/cabin/max1024x768/508.jpg" },
+    { "id": 9, "name": "Riverside Cabin Chitral", "city": "Chitral", "image": "https://cf.bstatic.com/images/cabin/max1024x768/509.jpg" },
+    { "id": 10, "name": "Snowy Cabin Ayubia", "city": "Ayubia", "image": "https://cf.bstatic.com/images/cabin/max1024x768/510.jpg" }
+  ],
+  "hostels": [
+    { "id": 1, "name": "Backpackers Hostel Lahore", "city": "Lahore", "image": "https://cf.bstatic.com/images/hostel/max1024x768/601.jpg" },
+    { "id": 2, "name": "Nomads Hostel Islamabad", "city": "Islamabad", "image": "https://cf.bstatic.com/images/hostel/max1024x768/602.jpg" },
+    { "id": 3, "name": "Youth Hostel Karachi", "city": "Karachi", "image": "https://cf.bstatic.com/images/hostel/max1024x768/603.jpg" },
+    { "id": 4, "name": "Student Hostel Peshawar", "city": "Peshawar", "image": "https://cf.bstatic.com/images/hostel/max1024x768/604.jpg" },
+    { "id": 5, "name": "Travelers Hostel Murree", "city": "Murree", "image": "https://cf.bstatic.com/images/hostel/max1024x768/605.jpg" },
+    { "id": 6, "name": "Central Hostel Multan", "city": "Multan", "image": "https://cf.bstatic.com/images/hostel/max1024x768/606.jpg" },
+    { "id": 7, "name": "Adventure Hostel Hunza", "city": "Hunza", "image": "https://cf.bstatic.com/images/hostel/max1024x768/607.jpg" },
+    { "id": 8, "name": "Friends Hostel Gilgit", "city": "Gilgit", "image": "https://cf.bstatic.com/images/hostel/max1024x768/608.jpg" },
+    { "id": 9, "name": "City Hostel Faisalabad", "city": "Faisalabad", "image": "https://cf.bstatic.com/images/hostel/max1024x768/609.jpg" },
+    { "id": 10, "name": "Budget Hostel Quetta", "city": "Quetta", "image": "https://cf.bstatic.com/images/hostel/max1024x768/610.jpg" }
+  ],
+  "motels": [
+    { "id": 1, "name": "Motorway Motel Lahore", "city": "Lahore", "image": "https://cf.bstatic.com/images/motel/max1024x768/701.jpg" },
+    { "id": 2, "name": "Highway Motel Islamabad", "city": "Islamabad", "image": "https://cf.bstatic.com/images/motel/max1024x768/702.jpg" },
+    { "id": 3, "name": "City Inn Motel Karachi", "city": "Karachi", "image": "https://cf.bstatic.com/images/motel/max1024x768/703.jpg" },
+    { "id": 4, "name": "Budget Motel Peshawar", "city": "Peshawar", "image": "https://cf.bstatic.com/images/motel/max1024x768/704.jpg" },
+    { "id": 5, "name": "Traveler’s Motel Multan", "city": "Multan", "image": "https://cf.bstatic.com/images/motel/max1024x768/705.jpg" },
+    { "id": 6, "name": "Hill Motel Murree", "city": "Murree", "image": "https://cf.bstatic.com/images/motel/max1024x768/706.jpg" },
+    { "id": 7, "name": "Desert Motel Bahawalpur", "city": "Bahawalpur", "image": "https://cf.bstatic.com/images/motel/max1024x768/707.jpg" },
+    { "id": 8, "name": "Valley Motel Swat", "city": "Swat", "image": "https://cf.bstatic.com/images/motel/max1024x768/708.jpg" },
+    { "id": 9, "name": "Seaview Motel Gwadar", "city": "Gwadar", "image": "https://cf.bstatic.com/images/motel/max1024x768/709.jpg" },
+    { "id": 10, "name": "Express Motel Faisalabad", "city": "Faisalabad", "image": "https://cf.bstatic.com/images/motel/max1024x768/710.jpg" }
+  ]
+}
