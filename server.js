@@ -26,6 +26,6 @@ app.get("/api/motels", (req, res) => res.json(data.motels));
 // All data
 app.get("/api/all", (req, res) => res.json(data));
 
-app.listen(PORT, () => {
-  console.log(`🚀 Server running on http://localhost:${PORT}`);
-});
+// app.listen(PORT, () => {
+//   console.log(`🚀 Server running on http://localhost:${PORT}`);
+// });
